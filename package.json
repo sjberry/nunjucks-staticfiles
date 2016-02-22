@@ -1,0 +1,12 @@
+{
+  "name": "nunjucks-staticfiles",
+  "version": "0.1.0",
+  "description": "A static files extension for Nunjucks.",
+  "author": "Steven Berry <steven@sberry.me> (http://www.sberry.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjberry/nunjucks-staticfiles.git"
+  },
+  "main": "main"
+}
